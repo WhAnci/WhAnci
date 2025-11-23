@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=200&text=WhAnci's%20GITHUB&fontSize=50&animation=fadeIn&fontAlign=30&fontAlignY=36)
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e1ff,100:00faaf&height=180&text=WhAnci's%20Github&animation=&fontColor=ffffff&fontSize=60&fontAlignY=36" />
     </div>
