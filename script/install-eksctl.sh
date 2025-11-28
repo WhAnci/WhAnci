@@ -10,17 +10,17 @@ trap 'echo "[ERROR] kubectl installation failed (line $LINENO)" >&2; exit 1' ERR
 ARCH=$(uname -m)
 case $ARCH in
     x86_64)
-        KUBECTL_ARCH="amd64"
+        EKSCTL_ARCH="amd64"
         ;;
     aarch64|arm64)
-        KUBECTL_ARCH="arm64"
+        EKSCTL_ARCH="arm64"
         ;;
     *)
         echo "[ERROR] Unsupported architecture: $ARCH" >&2
         exit 1
         ;;
 esac
-PLATFORM=$(uname -s)_$ARCH
+PLATFORM=$(uname -s)_$EKSCTL_ARCH
 
 curl -sLO "https://github.com/eksctl-io/eksctl/releases/latest/download/eksctl_$PLATFORM.tar.gz"
 
