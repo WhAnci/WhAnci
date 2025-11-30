@@ -14,31 +14,29 @@
 
 ### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tttttttt9-h&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tttttttt9-h&layout=compact&theme=tokyonight)
 
 ## 🎯 Currently Learning
 
@@ -54,30 +52,25 @@
 - 📜 AWS Certified Developer - Associate (계획중)
 - 📜 Certified Kubernetes Administrator (CKA) (계획중)
 
-## 📈 2025 Goals
+## 📈 2026 Goals
 
-- [ ] AWS 실전 프로젝트 5개 완성
-- [ ] Kubernetes 클러스터 운영 경험 쌓기
-- [ ] 오픈소스 프로젝트 기여
+- [ ] 2026 지방대회 은메달
+- [ ] 2026 전국대회 동메달
+- [ ] 09 AWS 1황되기
 - [ ] 기술 블로그 월 2회 포스팅
 - [ ] AWS 자격증 취득
 
 ## 💼 Projects Highlight
 
-### 🔹 AWS 3-Tier Web Application
+### 🔹 Linky: A Quick Link Clipper
 고가용성을 고려한 웹 애플리케이션 인프라 구축
 - **Tech**: AWS, Terraform, Docker, Jenkins
-- **Link**: [Repository](https://github.com/yourusername/project)
-
-### 🔹 Kubernetes CI/CD Pipeline
-자동화된 배포 파이프라인 구현
-- **Tech**: Kubernetes, ArgoCD, GitHub Actions
-- **Link**: [Repository](https://github.com/yourusername/project)
-
-### 🔹 Infrastructure Monitoring System
-실시간 모니터링 및 알림 시스템
-- **Tech**: Prometheus, Grafana, Alertmanager
-- **Link**: [Repository](https://github.com/yourusername/project)
+- **Link**: [Repository](https://github.com/tttttttt9-h/Linky)
+- 	[![Firefox Add-Ons](https://img.shields.io/badge/Firefox_Add_Ons-20123A?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/en-GB/firefox/addon/linky-a-quick-link-clipper/reviews/)
+### Kutt
+Oracle Free Tier를 이용한 개인용 URL 단축 서비스
+- **Tech**: OCI, Docker, Yaml
+- **Link**: [Site(Other people cannot login.)](https://l.whanci.xyz)
 
 ## 📝 Latest Blog Posts
 
@@ -118,3 +111,6 @@ def life_motto():
 ![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
 
 </div>
+
+
+
