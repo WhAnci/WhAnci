@@ -6,7 +6,7 @@
 안정적이고 확장 가능한 시스템을 설계하고 구축하는 것을 좋아합니다.
 
 ```
-💡 "Infrastructure as Code" 철학을 실천하고 있습니다
+💡 "Infrastructure as Code"을 지향합니다.
 ```
 
 ## 🛠 Tech Stack
@@ -106,7 +106,7 @@ def life_motto():
 
 ### 💬 "클라우드로 세상을 더 연결된 곳으로 만들고 싶습니다"
 
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/tttttttt9-h/count.svg)
 
 </div>
 
