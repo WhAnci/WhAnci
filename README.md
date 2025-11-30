@@ -1,4 +1,4 @@
-# 안녕하세요! 👋 클라우드 엔지니어를 꿈꾸는 개발자입니다
+# HELLO!
 
 ## 🚀 About Me
 
@@ -21,24 +21,22 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB.svg?&logo=python&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?&logo=go&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
 [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](#)
 ## 📊 Stats
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats-tan-two-72.vercel.app/api?username=tttttttt9-h&show_icons=true&theme=radical&cache_seconds=1800)
-</br>
 ![Top Langs](https://github-readme-stats-tan-two-72.vercel.app/api/top-langs/?username=tttttttt9-h&layout=compact&theme=radical)
 
-###
+### BaekJoon
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whanci)](https://solved.ac/whanci)
 ## 🎯 Currently Learning
 
@@ -70,7 +68,7 @@
 - **Tech**: AWS, Terraform, Docker
 - **Link**: [Repository](https://github.com/tttttttt9-h/Linky)
 
-### Kutt
+### 🔹 Kutt
 Oracle Free Tier를 이용한 개인용 URL 단축 서비스
 - **Tech**: OCI, Docker, Yaml
 - **Link**: [Site(Other people cannot login.)](https://l.whanci.xyz)
@@ -83,15 +81,15 @@ Oracle Free Tier를 이용한 개인용 URL 단축 서비스
 - 📚 AWS Documentation
 - 📚 Kubernetes in Action
 - 📚 Terraform: Up & Running
-- 🎓 Udemy, Coursera 강의
-- 👥 Cloud Study Group 참여
+- 📚 AWS Best Practice
+- 👥 전공심화동아리
 
 ## 📫 Contact Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yourblog.com)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so/yourpage)
+[![Mail](https://img.shields.io/badge/mail-000000?style=for-the-badge&logo=apple&logoColor=white)](mailto:ghks@whanci.xyz)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://l.whanci.xyz/velog)
+</br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/923484221073408010)](https://discord.com/users/923484221073408010)
 
 ## ⚡ Fun Fact
 
