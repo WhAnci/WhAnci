@@ -45,7 +45,7 @@
 - 🐳 Kubernetes 심화 학습
 - 🔧 Terraform 모듈 개발
 - 📊 Prometheus & Grafana 모니터링
-- 🔐 클라우드 보안 베스트 프랙티스
+- 🔐 AWS Best Practices
 
 ## 🏆 Certifications & Goals
 
@@ -65,7 +65,7 @@
 
 ### 🔹 Linky: A Quick Link Clipper
 고가용성을 고려한 웹 애플리케이션 인프라 구축
-- **Tech**: AWS, Terraform, Docker, Jenkins
+- **Tech**: AWS, Terraform, Docker
 - **Link**: [Repository](https://github.com/tttttttt9-h/Linky)
 - 	[![Firefox Add-Ons](https://img.shields.io/badge/Firefox_Add_Ons-20123A?logo=firefoxbrowser&logoColor=white)](https://addons.mozilla.org/en-GB/firefox/addon/linky-a-quick-link-clipper/reviews/)
 ### Kutt
