@@ -32,12 +32,11 @@
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tttttttt9-h&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tttttttt9-h&theme=github_dark)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tttttttt9-h&layout=compact&theme=tokyonight)
 
 ## 🎯 Currently Learning
 
