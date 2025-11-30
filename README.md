@@ -38,7 +38,7 @@
 ![GitHub Stats](https://github-readme-stats-tan-two-72.vercel.app/api?username=tttttttt9-h&show_icons=true&theme=radical&cache_seconds=1800)
 
 # Top Languages
-![Top Langs](https://your-project-name.vercel.app/api/top-langs/?username=tttttttt9-h&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-tan-two-72.vercel.app/api/top-langs/?username=tttttttt9-h&layout=compact&theme=radical)
 
 ## 🎯 Currently Learning
 
