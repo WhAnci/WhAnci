@@ -39,7 +39,7 @@
 ![Top Langs](https://github-readme-stats-tan-two-72.vercel.app/api/top-langs/?username=tttttttt9-h&layout=compact&theme=radical)
 
 ###
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=조무챠)](https://solved.ac/whanci)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=whanci)](https://solved.ac/whanci)
 ## 🎯 Currently Learning
 
 - ☁️ AWS Solutions Architect 자격증 준비
