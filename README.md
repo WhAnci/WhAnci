@@ -34,9 +34,11 @@
 
 ## 📊 Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tttttttt9-h&theme=dark)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tttttttt9-h&layout=compact&theme=radical)
+# GitHub Stats
+![GitHub Stats](https://github-readme-stats-tan-two-72.vercel.app/api?username=tttttttt9-h&show_icons=true&theme=radical)
 
+# Top Languages
+![Top Langs](https://your-project-name.vercel.app/api/top-langs/?username=tttttttt9-h&layout=compact&theme=radical)
 
 ## 🎯 Currently Learning
 
