@@ -34,7 +34,8 @@
 
 ## 📊 GitHub Stats
 
-[![WhAnci's GitHub stats](https://github-readme-stats.vercel.app/api?username=tttttttt9-h)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tttttttt9-h&theme=dark)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tttttttt9-h&layout=compact&theme=tokyonight)
 
