@@ -1,11 +1,11 @@
 # Hey, there!
-I'm SiHwan Lee, an AWS-focused cloud computing student with an interest in DevOps.
+I'm SiHwan Lee, an AWS-focused cloud computing student aiming to become a Site Reliability Engineer.
 
-I like understanding how applications run in real environments, from infrastructure to deployment.
+I’m driven by understanding how real systems scale, fail, and stay reliable.
 
-I learn best by building, testing, and iterating on small projects.
+I learn best by building systems, pushing them to their limits, and improving them.
 
-Most of what you see here reflects that process.
+I’m continuously learning and challenging myself to become a better engineer.
 
 ### Fun Facts:
 - I aim to become an AWS expert.
