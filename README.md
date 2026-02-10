@@ -2,11 +2,11 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="svg/white.svg"
+    srcset="svg/dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="svg/dark.svg"
+    srcset="svg/white.svg"
   />
   <img
     alt="YAML profile"
