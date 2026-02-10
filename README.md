@@ -1,17 +1,27 @@
 # Hey, there!
-I'm SiHwan Lee, an AWS-focused cloud computing student aiming to become a Site Reliability Engineer.
-
-I’m driven by understanding how real systems scale, fail, and stay reliable.
-
-I learn best by building systems, pushing them to their limits, and improving them.
-
-I’m continuously learning and challenging myself to become a better engineer.
-
-### Fun Facts:
-- I aim to become an AWS expert.
-- I often study while listening to Chuu’s music. 💗
-- I am learning Japanese with the goal of working in Japan.
-- I am based in South Korea. 
+```yaml
+profile:
+  name: SIHWAN Lee
+  alias: WhAnci
+  role: cloud-computing-junior
+  location: KR
+  languages:[korean, english, japanese]
+work:
+  currently:
+    - company: GJMST
+      position: student
+stack:
+  backend: [Go, Python]
+  infra: [AWS, Docker, K8s]
+fun_fact:
+  loves: [chuu💗, anime, J-POP]
+  oshi: [Himmel, Akane Kurokawa, War Devil, Anna Yanami]
+  hates: [earthworm]
+  made: ["the Monkeytype stats section right under this --> churious/monkeytype-stats"]
+music:
+  favorite: natori - Odoriko
+  recommended: chuu - XO, My Cyberlove
+```
 
 ## Stats
 ![MyStat](https://monkeytype-stats.vercel.app/api?user=WhAnci&theme=darling&mode=time&length=30)
