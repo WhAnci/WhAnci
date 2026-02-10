@@ -17,7 +17,6 @@ fun_fact:
   loves: [chuu💗, anime, J-POP]
   oshi: [Himmel, Akane Kurokawa, War Devil, Anna Yanami]
   hates: [earthworm]
-  made: ["the Monkeytype stats section right under this --> churious/monkeytype-stats"]
 music:
   favorite: natori - Odoriko
   recommended: chuu - XO, My Cyberlove
