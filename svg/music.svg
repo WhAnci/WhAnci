@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="260" viewBox="0 0 260 260">
+  <!-- 배경 투명 -->
+  <defs>
+    <!-- LP 그라디언트 -->
+    <radialGradient id="discGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#222222"/>
+      <stop offset="40%" stop-color="#111111"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+  </defs>
+
+  <!-- 전체 그룹 회전 -->
+  <g id="record" transform="translate(130,130)">
+    <!-- 디스크 본체 -->
+    <circle r="120" fill="url(#discGradient)"/>
+
+    <!-- 그루브 느낌 링들 -->
+    <circle r="110" fill="none" stroke="#1f2933" stroke-width="2"/>
+    <circle r="95"  fill="none" stroke="#1f2933" stroke-width="1.5"/>
+    <circle r="80"  fill="none" stroke="#1f2933" stroke-width="1"/>
+
+    <!-- 중앙 라벨 배경 (앨범 커버 영역) -->
+    <clipPath id="coverClip">
+      <circle r="55"/>
+    </clipPath>
+
+    <!-- 앨범 커버 이미지: 경로를 네 레포에 맞게 수정 -->
+    <image
+      href="assets/cover.png"
+      x="-55" y="-55" width="110" height="110"
+      clip-path="url(#coverClip)"
+      preserveAspectRatio="xMidYMid slice"
+    />
+
+    <!-- 스파인 중앙 구멍 -->
+    <circle r="6" fill="#111827" stroke="#e5e7eb" stroke-width="1"/>
+
+    <!-- 회전 애니메이션 -->
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0"
+      to="360"
+      dur="12s"
+      repeatCount="indefinite"
+    />
+  </g>
+</svg>
