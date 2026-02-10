@@ -1,23 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="520" height="580">
   <defs>
-    <linearGradient id="bg-dark" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#14151A" />
-      <stop offset="50%" stop-color="#23262E" />
-      <stop offset="100%" stop-color="#2E323D" />
+    <linearGradient id="bg-light" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5f5f7" />
+      <stop offset="100%" stop-color="#e5e7eb" />
     </linearGradient>
   </defs>
 
-  <rect x="0" y="0" width="520" height="580" fill="url(#bg-dark)" rx="18" />
+  <rect x="0" y="0" width="520" height="580" fill="url(#bg-light)" rx="18" />
 
   <!-- window bar -->
-  <rect x="20" y="20" width="480" height="30" rx="8" fill="#020617" opacity="0.95" />
-  <circle cx="38" cy="35" r="5" fill="#ee5d43" />
-  <circle cx="56" cy="35" r="5" fill="#FFE66D" />
-  <circle cx="74" cy="35" r="5" fill="#96E072" />
+  <rect x="20" y="20" width="480" height="30" rx="8" fill="#ffffff" />
+  <circle cx="38" cy="35" r="5" fill="#f97373" />
+  <circle cx="56" cy="35" r="5" fill="#facc15" />
+  <circle cx="74" cy="35" r="5" fill="#4ade80" />
 
-  <!-- title (profile.yaml only) -->
+  <!-- title -->
   <text x="100" y="38"
-        fill="#746f77"
+        fill="#6b7280"
         font-family="JetBrains Mono, Fira Code, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
         font-size="12">
     profile.yaml
@@ -26,10 +25,10 @@
   <!-- code -->
   <g font-family="JetBrains Mono, Fira Code, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
      font-size="14"
-     fill="#D5CED9">
+     fill="#111827">
 
-    <!-- line numbers: 4px 왼쪽, 24px 간격으로 코드와 정렬 -->
-    <g fill="#746f77">
+    <!-- line numbers -->
+    <g fill="#9ca3af">
       <text x="32" y="76">1</text>
       <text x="32" y="100">2</text>
       <text x="32" y="124">3</text>
@@ -52,71 +51,69 @@
       <text x="28" y="532">20</text>
     </g>
 
-    <!-- 여기부터 실제 YAML과 라인 1:1 맞춤 -->
-
     <!-- 1: profile: -->
-    <text x="64" y="76" fill="#00e8c6">profile:</text>
+    <text x="64" y="76" fill="#00b5a0">profile:</text>
 
     <!-- 2:   name: SIHWAN Lee -->
     <text x="92" y="100">
-      name: <tspan fill="#a5b4fc">SIHWAN Lee</tspan>
+      name: <tspan fill="#4f46e5">SIHWAN Lee</tspan>
     </text>
 
     <!-- 3:   alias: WhAnci -->
     <text x="92" y="124">
-      alias: <tspan fill="#a5b4fc">WhAnci</tspan>
+      alias: <tspan fill="#4f46e5">WhAnci</tspan>
     </text>
 
     <!-- 4:   role: cloud-computing-junior -->
     <text x="92" y="148">
-      role: <tspan fill="#a5b4fc">cloud-computing-junior</tspan>
+      role: <tspan fill="#4f46e5">cloud-computing-junior</tspan>
     </text>
 
     <!-- 5:   location: KR -->
     <text x="92" y="172">
-      location: <tspan fill="#a5b4fc">KR</tspan>
+      location: <tspan fill="#4f46e5">KR</tspan>
     </text>
 
     <!-- 6:   languages:[korean, english, japanese] -->
     <text x="92" y="196">
-      languages: <tspan fill="#7cb7ff">[korean, english, japanese]</tspan>
+      languages: <tspan fill="#2563eb">[korean, english, japanese]</tspan>
     </text>
 
     <!-- 7: work: -->
-    <text x="64" y="220" fill="#00e8c6">work:</text>
+    <text x="64" y="220" fill="#00b5a0">work:</text>
 
     <!-- 8:   currently: -->
     <text x="92" y="244">currently:</text>
 
     <!-- 9:     - company: GJMST -->
     <text x="120" y="268">
-      - company: <tspan fill="#96E072">GJMST</tspan>
+      - company: <tspan fill="#22c55e">GJMST</tspan>
     </text>
 
     <!-- 10:       position: student -->
     <text x="120" y="292">
-      position: <tspan fill="#96E072">student</tspan>
+      position: <tspan fill="#22c55e">student</tspan>
     </text>
 
     <!-- 11: stack: -->
-    <text x="64" y="316" fill="#00e8c6">stack:</text>
+    <text x="64" y="316" fill="#00b5a0">stack:</text>
 
     <!-- 12:   backend: [Go, Python] -->
     <text x="92" y="340">
-      backend: <tspan fill="#7cb7ff">[Go, Python]</tspan>
+      backend: <tspan fill="#2563eb">[Go, Python]</tspan>
     </text>
 
     <!-- 13:   infra: [AWS, Docker, K8s] -->
     <text x="92" y="364">
-      infra: <tspan fill="#7cb7ff">[AWS, Docker, K8s]</tspan>
+      infra: <tspan fill="#2563eb">[AWS, Docker, K8s]</tspan>
     </text>
 
     <!-- 14: fun_fact: -->
-    <text x="64" y="388" fill="#00e8c6">fun_fact:</text>
+    <text x="64" y="388" fill="#00b5a0">fun_fact:</text>
 
     <!-- 15:   loves: [chuu💗, anime, J-POP] -->
     <text x="92" y="412">
-      loves: <tspan fill="#ff00aa">[chuu💗, anime, J-POP]</tspan>
+      loves: <tspan fill="#ec4899">[chuu💗, anime, J-POP]</tspan>
     </text>
 
     <!-- 16:   oshi: [Himmel, Akane Kurokawa, War Devil, Anna Yanami] -->
@@ -126,20 +123,20 @@
 
     <!-- 17:   hates: [earthworm] -->
     <text x="92" y="460">
-      hates: <tspan fill="#ee5d43">[earthworm]</tspan>
+      hates: <tspan fill="#b91c1c">[earthworm]</tspan>
     </text>
 
     <!-- 18: music: -->
-    <text x="64" y="484" fill="#00e8c6">music:</text>
+    <text x="64" y="484" fill="#00b5a0">music:</text>
 
     <!-- 19:   favorite: natori - Odoriko -->
     <text x="92" y="508">
-      favorite: <tspan fill="#FFE66D">natori - Odoriko</tspan>
+      favorite: <tspan fill="#ca8a04">natori - Odoriko</tspan>
     </text>
 
     <!-- 20:   recommended: chuu - XO, My Cyberlove -->
     <text x="92" y="532">
-      recommended: <tspan fill="#FFE66D">chuu - XO, My Cyberlove</tspan>
+      recommended: <tspan fill="#ca8a04">chuu - XO, My Cyberlove</tspan>
     </text>
   </g>
 </svg>
