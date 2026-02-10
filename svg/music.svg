@@ -26,7 +26,7 @@
 
     <!-- 앨범 커버 이미지: 경로를 네 레포에 맞게 수정 -->
     <image
-      href="assets/chuu.jpg"
+      href="../assets/chuu.jpg"
       x="-55" y="-55" width="110" height="110"
       clip-path="url(#coverClip)"
       preserveAspectRatio="xMidYMid slice"
