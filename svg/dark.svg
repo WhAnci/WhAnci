@@ -132,9 +132,9 @@
     <!-- 18: music: -->
     <text x="64" y="484" fill="#00e8c6">music:</text>
 
-    <!-- 19:   favorite: natori - Odoriko -->
+    <!-- 19:   favorite: Maroon5 - Sunday Morning -->
     <text x="92" y="508">
-      favorite: <tspan fill="#FFE66D">natori - Odoriko</tspan>
+      favorite: <tspan fill="#FFE66D">Maroon5 - Sunday Morning</tspan>
     </text>
 
     <!-- 20:   recommended: chuu - XO, My Cyberlove -->
