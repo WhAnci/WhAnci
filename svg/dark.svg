@@ -92,7 +92,7 @@
     </text>
 
     <!-- 10:       position: student -->
-    <text x="120" y="292">
+    <text x="136" y="292">
       position: <tspan fill="#96E072">student</tspan>
     </text>
 
