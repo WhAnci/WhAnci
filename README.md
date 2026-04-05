@@ -17,6 +17,5 @@
 
 ## Stats
 ![MyStat](https://monkeytype-stats.vercel.app/api?user=WhAnci&theme=darling&mode=time&length=15)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhAnci)]()
-
+[![Top Langs](github-readme-stats-one-lyart-14.vercel.app/api/top-langs/?username=WhAnci)](https://github.com/WhAnci/github-readme-stats)
 <img src="https://github-readme-stats-tan-two-72.vercel.app/api?username=WhAnci&show_icons=true">
