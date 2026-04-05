@@ -17,4 +17,4 @@
 
 ## Stats
 ![MyStat](https://monkeytype-stats.vercel.app/api?user=WhAnci&theme=darling&mode=time&length=15)
-[![whanci's GitHub stats](https://github-readme-stats.vercel.app/api?username=whanci)](https://github.com/whanci/github-readme-stats)
+[![whanci's GitHub stats](https://github-readme-stats.vercel.app/api?username=whanci)](github-readme-stats.vercel.app)
