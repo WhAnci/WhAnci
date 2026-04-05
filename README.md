@@ -17,4 +17,6 @@
 
 ## Stats
 ![MyStat](https://monkeytype-stats.vercel.app/api?user=WhAnci&theme=darling&mode=time&length=15)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whanci&show_icons=true&theme=cobalt)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=WhAnci&show_icons=true&theme=cobalt)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhAnci&layout=compact&theme=cobalt)
