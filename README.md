@@ -1,4 +1,4 @@
-# Hey, there! <img width="384" height="384" alt="image" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
+# Hey, there!
 
 <picture>
   <source
