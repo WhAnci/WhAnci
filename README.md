@@ -1,4 +1,5 @@
-# Hey, there!
+# Hey, there! <img width="384" height="384" alt="image" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
