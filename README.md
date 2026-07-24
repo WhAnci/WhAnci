@@ -17,7 +17,7 @@
 
 
 ## Stats
-![MyStat](https://monkeytype-stats.vercel.app/api?user=WhAnci&theme=darling&mode=time&length=15)
+![Monkeytype](https://monkeytype-stats.vercel.app/api?user=WhAnci&theme=darling&mode=time&length=15)
 
 ## Green
 ![](./profile-3d-contrib/profile-gitblock.svg)
