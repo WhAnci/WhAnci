@@ -17,7 +17,7 @@
 
 
 ## Stats
-![Monkeytype](https://monkeytype-stats.vercel.app/api?user=WhAnci&theme=blueberry_dark&mode=time&length=15)
+[![My Stats](https://monkeytype-stats.vercel.app/api?username=Churious&theme=hedge&mode=time&length=30&transparent=false)](https://monkeytype.com/profile/Churious)
 
 ## Green
 ![](./profile-3d-contrib/profile-gitblock.svg)
